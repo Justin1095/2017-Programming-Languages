@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BookStore>
+	<Author>
+	    <Name>George</Name>
+		<BookTitle>Happy Tuesday</BookTitle>
+		<Price> 12.25</Price>
+		<BookTitle>Happy Friday</BookTitle>
+		<Price> 15.50</Price>
+		<BookTitle>Fall Projects</BookTitle>
+		<Price> 19.95</Price>
+	</Author>
+	<Author>
+	    <Name>Betty</Name>
+		<BookTitle>Summer Activities</BookTitle>
+		<Price> 11.50</Price>
+	</Author>
+	<Author>
+	    <Name>Henry</Name>
+		<BookTitle>Baseball Greats</BookTitle>
+		<Price> 11.50</Price>
+		<BookTitle>Soccer SuperStars</BookTitle>
+		<Price> 19.95</Price>
+	</Author>
+</BookStore>
+
